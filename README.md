@@ -1,11 +1,11 @@
 
-### Olá! Eu sou o Kauan Pavan 😃
+## Olá! Eu sou o Kauan Pavan 😃
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-pavan-de-farias-992aa3213/)
 
 ![kauanpavan GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanpavan&show_icons=true&theme=radical)
 
-## Tecnologias mais utilizadas
+### Tecnologias mais utilizadas
 
 <div style="display: inline_block">
 <br>
@@ -24,7 +24,7 @@
 Amante da tecnologia, recém-chegado ao mundo da programação e sempre em busca de crescimento pessoal.
 
 
-## E-mail para contato
+### E-mail para contato
 <div style="display: inline_block">
 <img align="center" alt ="html5" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 kauanpavan@outlook.com.br
