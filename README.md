@@ -1,31 +1,32 @@
+Hey there! 👋
 
-## Olá! Eu sou o Kauan Pavan 😃
+I’m Kauan Pavan, a systems development student and tech enthusiast based in Brazil 🇧🇷
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-pavan-de-farias-992aa3213/)
+I like building simple, functional systems and improving them step by step.
 
-![kauanpavan GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanpavan&show_icons=true&theme=radical)
+My main focus is on Python and system logic, with growing interest in backend development and enterprise systems.
 
-### Tecnologias mais utilizadas
+Currently studying Analysis and Systems Development (ADS).
 
-<div style="display: inline_block">
-<br>
-<img align="center" alt ="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt ="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img align="center" alt ="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img align="center" alt ="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+Some of my projects:
+- 📊 **controle-financeiro-python** — a simple financial control system built with Python, focused on logic and organization  
+- 🔢 **manipulador_de_numeros** — an interactive menu-based system to manipulate and analyze numerical data
 
-</div>
-<br>
+Tech Stack:
+- Python
+- Git & GitHub
+- Basic SQL
+- SAP FI (user-level experience)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanpavan)
+Tools I use:
+- VS Code
+- GitHub
+- Notion
+- Windows
 
-<br>
+Fun Facts:
+- I enjoy building things from scratch
+- I train at the gym regularly
+- Not a big fan of parties 😄
+- I like learning by doing
 
-Amante da tecnologia, recém-chegado ao mundo da programação e sempre em busca de crescimento pessoal.
-
-
-### E-mail para contato
-<div style="display: inline_block">
-<img align="center" alt ="html5" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-kauanpavan@outlook.com.br
-</div>
